@@ -1,2 +1,3 @@
-# Rock-Paper-Scissors-MK1
+# Rock-Paper-Scissors
+
 Simple Rock Paper Scissor game
